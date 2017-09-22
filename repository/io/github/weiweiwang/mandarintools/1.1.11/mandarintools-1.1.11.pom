@@ -70,6 +70,7 @@
             <groupId>com.fulmicoton</groupId>
             <artifactId>multiregexp</artifactId>
             <version>0.3</version>
+            <scope>test</scope>
         </dependency>
 
 
