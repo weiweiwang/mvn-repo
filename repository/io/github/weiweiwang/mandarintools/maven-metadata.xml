@@ -3,11 +3,7 @@
   <groupId>io.github.weiweiwang</groupId>
   <artifactId>mandarintools</artifactId>
   <versioning>
-<<<<<<< HEAD
-    <release>1.1.12</release>
-=======
-    <release>1.1.11</release>
->>>>>>> d9c7fe61dee1a8cbb76f53894fc9d2b3e62f6c61
+    <release>1.1.13</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -30,14 +26,10 @@
       <version>1.1.8</version>
       <version>1.1.9</version>
       <version>1.1.10</version>
-<<<<<<< HEAD
-      <version>1.1.12</version>
-    </versions>
-    <lastUpdated>20171001010710</lastUpdated>
-=======
       <version>1.1.11</version>
+      <version>1.1.12</version>
+      <version>1.1.13</version>
     </versions>
-    <lastUpdated>20170922172207</lastUpdated>
->>>>>>> d9c7fe61dee1a8cbb76f53894fc9d2b3e62f6c61
+    <lastUpdated>20171018070951</lastUpdated>
   </versioning>
 </metadata>
